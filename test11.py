@@ -16,5 +16,6 @@ def func():
 
 
 print(x, id(x))
+print(111)
 func()
 print(x, id(x))
